@@ -1,4 +1,3 @@
-# meliat329.github.io
 Melia's Portfolio
 
 This started in May of 2020 as a Northwestern CS330 (Human-Computer Interaction) project 
